@@ -5,8 +5,8 @@ I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science. M
 
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: swetha.vipparla@students.iiit.ac.in
-- 📝 [LinkedIn](https://www.linkedin.com/in/swethavipparla/)
-- 🌐 [Website](https://swethavipparla.github.io/)
+- 📝 [My LinkedIn](https://www.linkedin.com/in/swethavipparla/)
+- 🌐 [My Website](https://swethavipparla.github.io/)
 
 **Expertised Languages and Tools:** 
 
@@ -24,7 +24,12 @@ I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science. M
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-
+![NextJs](https://img.shields.io/badge/-NextJs-important?logo=nextJs&style=social)&nbsp;&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-important?logo=jupyter&style=social)&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-important?logo=aws&style=social)&nbsp;&nbsp;
+![Azure](https://img.shields.io/badge/-Azure-important?logo=azure&style=social)&nbsp;&nbsp;
+![NodeJs](https://img.shields.io/badge/-NodeJs-important?logo=node&style=social)&nbsp;&nbsp;
+![ExpressJs](https://img.shields.io/badge/-ExpressJs-important?logo=express&style=social)&nbsp;&nbsp;
 
 ![Swetha's Github Stats](https://github-readme-stats.vercel.app/api?username=swethavipparla&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swethavipparla&hide=TeX&layout=compact)
