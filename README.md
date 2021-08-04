@@ -30,6 +30,7 @@ I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science. M
 ![Azure](https://img.shields.io/badge/-Azure-important?logo=azure&style=social)&nbsp;&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-important?logo=node&style=social)&nbsp;&nbsp;
 ![ExpressJs](https://img.shields.io/badge/-ExpressJs-important?logo=express&style=social)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-important?logo=mongodb&style=social)&nbsp;&nbsp;
 
 ![Swetha's Github Stats](https://github-readme-stats.vercel.app/api?username=swethavipparla&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swethavipparla&hide=TeX&layout=compact)
