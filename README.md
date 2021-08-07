@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=SwethaVipparla&color=ff69b4)
+
 ### Hello! 👋
 ### I am Swetha :)
 
@@ -36,4 +38,3 @@ I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science. M
 ![Swetha's Github Stats](https://github-readme-stats.vercel.app/api?username=swethavipparla&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swethavipparla&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=swethavipparla.swethavipparla)
