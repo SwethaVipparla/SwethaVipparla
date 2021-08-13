@@ -36,5 +36,6 @@ I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science. M
 ![Azure](https://img.shields.io/badge/-Azure-important?logo=azure&style=social)&nbsp;&nbsp;
 
 ![Swetha's Github Stats](https://github-readme-stats.vercel.app/api?username=swethavipparla&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swethavipparla&hide=TeX&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swethavipparla&layout=compact&hide=jupyter%20notebook)](https://github.com/swethavipparla/github-readme-stats)
+
 
