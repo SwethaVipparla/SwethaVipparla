@@ -15,7 +15,7 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
 - 🌐 [My Website](https://swethavipparla.github.io/)
 
 ## Tools and Technologies :computer:
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
@@ -41,6 +41,7 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
 <img src="https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png" alt="Azure" width="50" height="30"/>
+</p>
 
 ## My Stats :chart_with_upwards_trend:
 ![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swethavipparla&show_icons=true&include_all_commits=true)
