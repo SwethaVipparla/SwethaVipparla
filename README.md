@@ -1,44 +1,49 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=SwethaVipparla&color=ff69b4)
 
-### Hello! 👋
-### I am Swetha :)
+# Hello! 👋
+# I am Swetha :)
 
+## About Me
 I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science and Engineering. My technology stack involves C, C++, Python, Java, Javascript, HTML, Shell, and Solidity.
-My tech stack comprises of Blockchain Technology, Cloud Computing, Machine Learning, Web Development, and Data Structures and Algorithms.
+My project avenues comprise of Blockchain Technology, Cloud Development, Machine Learning, Web Development, and Data Structures and Algorithms.
 
-- I am a ICPC-Asia Kanpur Regionalist'20.
-- I am a Generation Google Scholar (Asia-Pacific)'21.
-- I am a Women Techmakers Engineering Fellow sponsored by Google and Talentsprint.
+- :zap: I received the Generation Google Scholarship (Asia-Pacific)'21 award. I am one among the 66 students selected in the Asia Pacific region.
+- I got selected as a Women Techmakers Engineering Fellow Scholar'21 by Google and Talentsprint. I am one among the top 50 students selected with 100% scholarship out of the total 27,643 applicants 
+- I am an ICPC-Asia Kanpur Regionalist'20.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: swetha.vipparla@students.iiit.ac.in
 - 📝 [My LinkedIn](https://www.linkedin.com/in/swethavipparla/)
 - 🌐 [My Website](https://swethavipparla.github.io/)
 
-**Expertised Languages and Tools:** 
+## Languages and Tools
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;
-![Solidity](https://img.shields.io/badge/solidity-%23123130.svg?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;&nbsp;
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;
-![NextJS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=nuxt.js&logoColor=white)&nbsp;&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;&nbsp;
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
-![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-important?logo=aws&style=social)&nbsp;&nbsp;
-![Azure](https://img.shields.io/badge/-Azure-important?logo=azure&style=social)&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1319px-Solidity_logo.svg.png" alt="Solidity" width="40" height="40"/> 
+<img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="Shell" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJs" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" alt="NodeJs" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="ExpressJs" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+<img src="https://sqlplayer.net/wp-content/uploads/2020/01/azure-cosmos-db.png" alt="Cosmos DB" width="40" height="40"/>
+<img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-71fcy541.png" alt="DynamoDB" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+<img src="https://imonezaprod.blob.core.windows.net/wp-assets/2014/09/azure-cloud-logo.png" alt="Azure" width="50" height="30"/>
 
+## My Stats
 ![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swethavipparla&show_icons=true&include_all_commits=true)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swethavipparla&theme=default) 
