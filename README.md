@@ -3,16 +3,16 @@
 # Hello! 👋<br/>I am Swetha :)
 
 ## About Me :woman:
-I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science and Engineering. My technology stack involves C, C++, Python, Java, Javascript, HTML, Shell, and Solidity.
+I am an undergraduate student at IIIT-Hyderabad, majoring in Computer Science and Engineering. My technology stack involves C, C++, Python, Java, Javascript, HTML, Shell, and Solidity.
 My project avenues comprise of Blockchain Technology, Cloud Development, Machine Learning, Web Development, and Data Structures and Algorithms.
 
- :zap: I received the Generation Google Scholarship (Asia-Pacific)'21 award. I am one among the 66 students selected in the Asia Pacific region.  
- :zap: I got selected as a Women Techmakers Engineering Fellow Scholar'21 by Google and Talentsprint. I am one among the top 50 students selected with 100% scholarship out of the total 27,643 applicants  
- :zap: I am an ICPC-Asia Kanpur Regionalist'20.  
- 💬 Brainstorm with me over tech, algorithms, career, and music  
- 📫 How to reach me: swetha.vipparla@students.iiit.ac.in  
- 📝 [My LinkedIn](https://www.linkedin.com/in/swethavipparla/)  
- 🌐 [My Website](https://swethavipparla.github.io/)
+ - :zap: I received the Generation Google Scholarship (Asia-Pacific)'21 award. I am one among the 66 students selected in Asia Pacific.  
+ - :zap: I got selected as a Women Techmakers Engineering Fellow Scholar'21 by Google and Talentsprint. I am one among the top 50 students selected with 100% scholarship out of the total 27,643 applicants.  
+ - :zap: I am an ICPC-Asia Kanpur Regionalist'20.  
+ - 💬 Brainstorm with me over tech, algorithms, career, and music  
+ - 📫 How to reach me: swetha.vipparla@students.iiit.ac.in  
+ - 📝 [My LinkedIn](https://www.linkedin.com/in/swethavipparla/)  
+ - 🌐 [My Website](https://swethavipparla.github.io/)
 
 ## Tools and Technologies :computer:
 <p>
@@ -23,7 +23,11 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TS" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="40" height="40"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/2000px-Solidity_logo.svg.png" alt="Solidity" width="40" height="45"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/2000px-Solidity_logo.svg.png" alt="Solidity" width="40" height="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Ethereum-icon-purple.svg/1200px-Ethereum-icon-purple.svg.png" alt="Ethereum" width="40" height="45"/>
+<img src="https://cdn.freebiesupply.com/logos/large/2x/metamask-logo-svg-vector.svg" alt="Metamask" width="40" height="40"/>
+<img src="https://avatars.githubusercontent.com/u/22205159?s=280&v=4" alt="Truffle" width="40" height="40"/>
+<img src="https://i.imgur.com/GX0qzK1.jpg" alt="Web3Js" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/> 
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git" width="40" height="40"/> 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png" alt="Shell" width="45" height="40"/> 
@@ -35,6 +39,8 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="Keras" width="40" height="40"/>
+<img src="https://numfocus.org/wp-content/uploads/2016/07/pandas-logo-300.png" alt="Pandas" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDB" width="40" height="40"/>
