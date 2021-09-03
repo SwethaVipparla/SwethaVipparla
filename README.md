@@ -3,8 +3,12 @@
 ### Hello! 👋
 ### I am Swetha :)
 
-I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science. My technology stack involves C, C++, Python, Java, Javascript.
+I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science and Engineering. My technology stack involves C, C++, Python, Java, Javascript, HTML, Shell, and Solidity.
+My tech stack comprises of Blockchain Technology, Cloud Computing, Machine Learning, Web Development, and Data Structures and Algorithms.
 
+- I am a ICPC-Asia Kanpur Regionalist'20.
+- I am a Generation Google Scholar (Asia-Pacific)'21.
+- I am a Women Techmakers Engineering Fellow sponsored by Google and Talentsprint.
 - 💬 Brainstorm with me over tech, algorithms, career, and music 
 - 📫 How to reach me: swetha.vipparla@students.iiit.ac.in
 - 📝 [My LinkedIn](https://www.linkedin.com/in/swethavipparla/)
@@ -12,24 +16,24 @@ I am an undergraduate student at IIIT Hyderabad, majoring in Computer Science. M
 
 **Expertised Languages and Tools:** 
 
-![C](https://img.shields.io/badge/-C-black?logo=c&style=social)&nbsp;&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-important?logo=c%2B%2B&style=social)&nbsp;&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
-![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-important?logo=typescript&style=social)&nbsp;&nbsp;
-![Solidity](https://img.shields.io/badge/-Solidity-important?logo=solidity&style=social)&nbsp;&nbsp;
-![Shell](https://img.shields.io/badge/-Shell-important?logo=shellb&style=social)&nbsp;&nbsp;
-![React](https://img.shields.io/badge/-React-important?logo=react&style=social)&nbsp;&nbsp;
-![NextJs](https://img.shields.io/badge/-NextJs-important?logo=nextJs&style=social)&nbsp;&nbsp;
-![NodeJs](https://img.shields.io/badge/-NodeJs-important?logo=node&style=social)&nbsp;&nbsp;
-![ExpressJs](https://img.shields.io/badge/-ExpressJs-important?logo=express&style=social)&nbsp;&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?logo=bootstrap&style=social)&nbsp;&nbsp;
-![Tensorflow](https://img.shields.io/badge/-TensorFlow-important?logo=tensorflow&style=social)&nbsp;&nbsp;
-![Jupyter](https://img.shields.io/badge/-Jupyter-important?logo=jupyter&style=social)&nbsp;&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-important?logo=mongodb&style=social)&nbsp;&nbsp;
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;&nbsp;
+![Solidity](https://img.shields.io/badge/solidity-%23123130.svg?style=for-the-badge&logo=solidity&logoColor=white)&nbsp;&nbsp;
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)&nbsp;&nbsp;
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;&nbsp;
+![NextJS](https://img.shields.io/badge/Next.JS-black?style=for-the-badge&logo=nuxt.js&logoColor=white)&nbsp;&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;&nbsp;
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)&nbsp;&nbsp;
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-black?logo=mysql&style=social)&nbsp;&nbsp;
 ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-important?logo=aws&style=social)&nbsp;&nbsp;
