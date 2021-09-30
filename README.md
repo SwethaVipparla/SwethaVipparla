@@ -128,5 +128,7 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
 
 ## My Stats :chart_with_upwards_trend:
 
+![](https://github.com/swethavipparla/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/swethavipparla/github-stats/blob/master/generated/languages.svg)
 
 
