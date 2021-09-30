@@ -127,7 +127,9 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
 </p>
 
 ## My Stats :chart_with_upwards_trend:
-![Swetha's GitHub stats](https://github-readme-stats.vercel.app/api?username=swethavipparla&show_icons=true&include_all_commits=true)
+![](https://github.com/swethavipparla/github-stats/blob/master/generated/overview.svg)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=swethavipparla&theme=default) 
+
+![](https://github.com/swethavipparla/github-stats/blob/master/generated/languages.svg)
+
 
