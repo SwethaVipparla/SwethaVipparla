@@ -7,9 +7,8 @@ I am an undergraduate student at IIIT-Hyderabad, majoring in Computer Science an
 My project avenues comprise of Blockchain Technology, Cloud Development, Machine Learning, Web Development, and Data Structures and Algorithms.
 
  - :zap: I received the Generation Google Scholarship (Asia-Pacific)'21 award. I am one among the 66 students selected in Asia Pacific.  
- - :zap: I got selected as a Women Techmakers Engineering Fellow Scholar'21 by Google and Talentsprint. I am one among the top 50 students selected with 100% scholarship out of the total 27,643 applicants.  
- - :zap: I am an ICPC-Asia Kanpur Regionalist'20.  
- - 💬 Brainstorm with me over tech, algorithms, career, and music  
+ - :zap: I am one of the 200 Selected Candidates out of 27,643 applicants from 2,800 Colleges for the Women Engineers (WE) Scholar'21 Program with 100% free scholarship. 
+ - :zap: I am an ICPC-Asia Kanpur Regionalist'21.  
  - 📫 How to reach me: swetha.vipparla@students.iiit.ac.in  
  - 📝 [My LinkedIn](https://www.linkedin.com/in/swethavipparla/)  
  - 🌐 [My Website](https://swethavipparla.github.io/)
