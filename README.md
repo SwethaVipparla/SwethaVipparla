@@ -9,7 +9,7 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
  - :zap: I received the Generation Google Scholarship (Asia-Pacific)'21 award. I am one among the 66 students selected in Asia Pacific.  
  - :zap: I am one of the 200 Selected Candidates out of 27,643 applicants from 2,800 Colleges for the Women Engineers (WE) Scholar'21 Program with 100% free scholarship. 
  - :zap: I am an ICPC-Asia Kanpur Regionalist'21.  
- - 📫 How to reach me: swetha.vipparla@students.iiit.ac.in  
+ - 📫 How to reach me: swetha.vipparla20@gmail.com  
  - 📝 [My LinkedIn](https://www.linkedin.com/in/swethavipparla/)  
  - 🌐 [My Website](https://swethavipparla.github.io/)
 
