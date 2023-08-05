@@ -112,7 +112,10 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
 </a>
 <a href="https://docs.microsoft.com/en-us/azure/cosmos-db/introduction" target="_blank">
-<img src="https://sqlplayer.net/wp-content/uploads/2020/01/azure-cosmos-db.png" alt="Cosmos DB" width="40" height="40"/>
+<img src="https://azure.microsoft.com/svghandler/cosmos-db?width=600&height=315" alt="Cosmos DB" width="40" height="40"/>
+</a>
+<a href="" target="_blank">
+<img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/atlassian_bamboo_logo_icon_168564.png" alt="Bamboo" width="40" height="40"/>
 </a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank">
 <img src="https://static-00.iconduck.com/assets.00/aws-dynamodb-icon-454x512-71fcy541.png" alt="DynamoDB" width="40" height="40"/>
