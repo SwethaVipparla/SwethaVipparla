@@ -24,6 +24,9 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
 <a href="https://www.python.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
 </a>
+<a href="" target="_blank">
+<img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" alt="Kotlin" width="40" height="40"/> 
+</a>
 <a href="https://html.com/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
 </a>
@@ -68,6 +71,9 @@ My project avenues comprise of Blockchain Technology, Cloud Development, Machine
 </a> 
 <a href="https://reactjs.org/" target="_blank">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
+</a>
+<a href="" target="_blank">
+<img src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png" alt="Django" width="40" height="40"/> 
 </a>
 <a href="https://nextjs.org/" target="_blank">
 <img src="https://res.cloudinary.com/dic1wkup2/image/upload/v1586716992/feature_img/nextjs-2_xbwleg.png" alt="NextJs" width="50" height="30"/> 
