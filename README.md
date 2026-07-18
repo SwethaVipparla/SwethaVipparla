@@ -3,7 +3,7 @@
 # Hello! 👋<br/>I am Swetha :)
 
 ## About Me :woman:
-I am an undergraduate student at IIIT-Hyderabad, majoring in Computer Science and Engineering. My technology stack involves C, C++, Python, Java, Javascript, HTML, Shell, and Solidity.
+I am a Software Engineer III at Google. I graduated from IIIT-Hyderabad in 2024, majoring in Computer Science and Engineering. My technology stack involves C, C++, Python, Java, Javascript, HTML, Shell, and Solidity.
 My project avenues comprise of Blockchain Technology, Cloud Development, Machine Learning, Web Development, and Data Structures and Algorithms.
 
  - :zap: I received the Generation Google Scholarship (Asia-Pacific)'21 award. I am one among the 66 students selected in Asia Pacific.  
